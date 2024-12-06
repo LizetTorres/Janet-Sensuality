@@ -3,7 +3,7 @@
 ?>
     <div class"col-md-12">   
       <div class="jumbotron">
-            <h1 class="display-3">Bienvenido </h1>
+            <h2 class="display-3">Bienvenida <?php echo $nombreUsuario; ?></h2>
        
              <p class="lead">Vamos a administrar nuestros productos en el sitio web</p>
              <hr class="my-2">
@@ -14,4 +14,3 @@
         </div>
     </div>
     <?php include('template/pie.php'); ?>
-
