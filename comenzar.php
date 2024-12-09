@@ -12,7 +12,7 @@
   
   <header class="header-landing">
     <div class="wrap-logo">
-      <img src="img/logojanet.png" alt="" class="logo-header-landing">
+      <img src="img/image.png" alt="" class="logo-header-landing">
     </div>
   </header>
 
@@ -24,14 +24,14 @@
       <h2>En Janet Sensuality, creemos que cada mujer merece sentirse hermosa y segura. Nuestra colección de lencería fina está diseñada para realzar tu belleza natural.</h2>.</h2>
      
       <div class="wrap-cta">
-      <a href="contacto.php"class="cat-a">Contácto</a>
+      <a href="contacto.php"class="cat-a">Contáctame</a>
  
       </div>
     </div>
   </section>
 
   <section class="section logos-section">
-    <h2>         Contamos con las principales marcas del mercado       </h2>
+    <h2>Contamos con las principales marcas del mercado</h2>
     <div class="wrap-logos-section">
       <img src="img/vicky.jpg" alt="" class="logo-brand">
       <img src="img/victoria.jpg" alt="" class="logo-brand">
@@ -50,31 +50,27 @@
     </div>
 
     <div class="wrap-productos-section">
-      <a href="productos.php" class="item-productos-section">
+      <a href="https://www.facebook.com/share/r/U9mMrHF8agSAHaNC/" class="item-productos-section">
         <img src="" alt="">
           <h4>Sujetadores</h4>
         </img>
       </a>
-      <a href="productos.php" class="item-productos-section">
+      <a href="https://www.facebook.com/share/r/U9mMrHF8agSAHaNC/" class="item-productos-section">
         <img src="" alt="">
           <h4>Bragas</h4>
         </img>
       </a>
-      <a href="productos.php"  class="item-productos-section">
+      <a href="https://www.facebook.com/share/r/U9mMrHF8agSAHaNC/"  class="item-productos-section">
         <img src="" alt="">
           <h4>Coordinados</h4>
         </img>
       </a>
-      <a href="productos.php"  class="item-productos-section">
+      <a href="https://www.facebook.com/share/r/U9mMrHF8agSAHaNC/"  class="item-productos-section">
         <img src="" alt="">
           <h4>Sensuales</h4>
         </img>
       </a>
-      <a href="productos.php"  class="item-productos-section">
-        <img src="" alt="">
-          <h4>Sexys</h4>
-        </img>
-      </a>
+      
       <a href="productos.php" class="item-productos-section">
         <img src="" alt="">
           <h4>Deportivos</h4>
@@ -106,26 +102,19 @@
       </div>
     </div>
   </section>
-
- 
-
   <footer class="footer-section">
     <div class="wrap-footer-section">
       <div class="wrap-social-logos">
         <ul>
           <li>
-            <a href="contacto.php">
+            <a href="https://www.facebook.com/share/15RH4yeNLr/?mibextid=LQQJ4d">
               <img src="img/facebook.jpg" alt="" class="social-logo">
             </a>
           </li>
           <li>
-            <a href="contacto.php">
-            <img src="img/WhatsApp.jpg" alt="" class="social-logo">
-            </a>
-          </li>
           <li>
-            <a href="contacto.php">
-            <img src="img/messenger.jpg" alt="" class="social-logo">
+            <a href="https://www.instagram.com/sensualitetorres/profilecard/?igsh=Zm80aHpuYWJ2MWFn">
+            <img src="img/instagram.jpeg" alt="" class="social-logo">
             </a>
           </li>
         </ul>
@@ -137,7 +126,7 @@
     </div>
     <div class="wrap-menu-footer-section">
       <a href="comenzar.php" class="cat-a">Inicio</a>
-      <a href="nosotros.php" class="cat-a">Quienes Somos</a>
+      <a href="nosotros.php" class="cat-a">Nosotros</a>
       <a href="contacto.php" class="cat-a">Contácto</a>
     </div>
     <div class="menu-footer-section">

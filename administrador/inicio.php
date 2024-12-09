@@ -1,6 +1,6 @@
-<?php include("template/cabecera.php"); 
-//include("productos.php");
-?>
+<?php include("template/cabecera.php"); ?>
+
+
     <div class"col-md-12">   
       <div class="jumbotron">
             <h2 class="display-3">Bienvenida <?php echo $nombreUsuario; ?></h2>

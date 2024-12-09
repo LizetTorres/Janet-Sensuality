@@ -144,17 +144,21 @@ $listaproductos=$sentenciaSQL->fetchALL(PDO::FETCH_ASSOC);
    
    <div class = "form-group">
    <label for="txtNombre">Imagen:</label>
-   </br>
-<?php 
-   if($txtImagen!="") { ?>
 
-<img class="img-thumbnail rounded" src="../../img/<?php echo $txtImagen;?>" width="50" alt=""srcset="">     
+   <br/>
+
+ 
+
+<?php if($txtImagen!="") { ?>
+   
+<img class="img-thumbnail rounded" src="../../img/<?php echo $txtImagen; ?>" width="50" alt=""srcset="">  
+<br/>
 <?php }  ?>
 
 <input type="file" class="form-control" "name="txtImagen" id="txtImagen" placeholder="Nombre del producto">
    </div>
  
-   </br>
+ 
    <div class="btn-group" role="group" aria-label="">
     <button type="submit" name="accion" <?php echo ($accion=="Seleccionar")?"disabled":""; ?> value="Agregar" class="btn btn-success">Agregar</button>
     <button type="submit" name="accion" <?php echo ($accion!="Seleccionar")?"disabled":""; ?> value="Modificar" class="btn btn-warning">Modificar</button>
@@ -189,7 +193,7 @@ $listaproductos=$sentenciaSQL->fetchALL(PDO::FETCH_ASSOC);
         <td><?php echo $producto['nombre']; ?></td>
        
      <td>       
-     <img src="../../img/<?php echo $producto['imagen']; ?>" width="50" alt=""srcset="";>
+     <img class="img-thumbnail rounded" src="../../img/<?php echo $producto['imagen']; ?>" width="50" alt="" srcset="">
         
     </td>
        
